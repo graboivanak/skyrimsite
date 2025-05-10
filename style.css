@@ -1,0 +1,92 @@
+body{
+    background-image:url("https://wa-cdn.nyc3.cdn.digitaloceanspaces.com/user-data/production/f088b188-2ff2-465b-b126-50184ffa51c5/uploads/images/e8e940abfead18e0aaa80d385ee9924c.jpeg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+
+}
+.logo{
+    position: absolute;
+    top: 20px;
+    margin-left: 500px;
+}
+main{
+    background-image: url("https://i0.wp.com/www.pswallpapers.com/wp-content/uploads/2017/02/Skyrim-1080-Main.jpg?ssl=1");
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding: 40px;
+    border-radius: 40px;
+    margin-top: 300px;
+    padding-bottom: 200px;
+}
+.wiki{
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.pp{
+    font-family: sans-serif;
+    font-size: 40px;
+    right: 30px;
+    text-shadow: 5px 3px 15px black;
+}
+.skyrim{
+position: absolute;
+top: 310px;
+left: 975px;
+box-shadow: 10px 10px 40px 10px black;
+}
+.walk{
+    border-radius: 40px;
+    border:3px solid white
+}
+
+.pp2{
+    text-align: right;
+}
+.dinfo{
+    display: flex;
+    justify-content: space-between;
+}
+.wiki2{
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+   bottom: 1px;
+   left: 980px;
+    border: 2px solid black;
+    padding: 10px;
+    background-image: url("https://i.pinimg.com/736x/54/bb/b0/54bbb0ff43c868f53f4f25831504a987.jpg");
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px 10px black;
+}
+.zg{
+ text-align: center;
+ color: white;
+ font-size: 50px;
+ font-family: sans-serif;
+}
+#section1{
+    background-image: url("https://wallup.net/wp-content/uploads/2019/10/730038-elder-scrolls-fantasy-action-rpg-mmo-online-artwork-fighting-skyrim.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:100px;
+    margin-top:10px;
+}
+.wiki3{
+    color: white;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+.arngeir{
+    border-radius: 30px;
+    border:2px solid white;
+    box-shadow: 10px 10px 40px 10px black;
+    width: 380px;
+    height: 400px;
+}
+.arngeird{
+    display: flex;
+    justify-content: space-around;
+}
